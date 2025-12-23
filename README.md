@@ -6,4 +6,4 @@ Database but not the easy kind.
 
 - Tan Le Xuan
 - Gabriel Ong Zhe Mian
-- Luke Nathenial Teo Bo Sheng
+- Luke Nathaniel Teo Bo Sheng
